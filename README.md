@@ -1,2 +1,2 @@
 # Todo-App
- https://saimajahanrushni.github.io/Todo-App/
+ https://github.com/saimajahanrushni/Todo-App.git
